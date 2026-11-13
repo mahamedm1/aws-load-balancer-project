@@ -1,5 +1,5 @@
 
-# AWS Application Load Balancer Project
+# AWS Multi-AZ Web Application Deployment
 
 ## Overview
 
